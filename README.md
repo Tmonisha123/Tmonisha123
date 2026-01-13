@@ -1,7 +1,7 @@
 ### Hi! I'm Monisha ✌️
 
 🎓 Recent Computer Science graduate at the University of Surrey <br/>
-🌱 Currently learning Python and Web Development
+🌱 Currently learning Java and Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
