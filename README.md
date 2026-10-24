@@ -32,7 +32,7 @@ Right now, I'm working in the fast-paced world of startups, scaling AI-powered i
 
 ## 🚀 Featured Adventures & Impact
 
-*   **🤖 Levare AI (Present)
+*   **🤖 Levare AI (Present)**
 *   **📡 Sky UK Ltd (UX Work Shadowing):** Immersed myself in end-to-end user-centered design, ran "How Might We..." ideation workshops, and built post-match sports analytics wireframes.
 *   **🎯 ACTIV Points (IT Full-Stack Developer):** Delivered an API-integrated user dashboard serving over 50+ daily active users across rapid, agile sprint cycles.
 
